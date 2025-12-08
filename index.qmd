@@ -91,7 +91,7 @@ To close the workshop, the team also hosted a beautiful certificate ceremony, cr
 :::
 
 <div class="figure-caption" style="text-align: center; font-size: 90%;">
-  *Participants holding their cerificates.*
+  *Participants holding their certificates.*
 </div>
 
 :::
@@ -128,7 +128,7 @@ We’re exploring ways to make Bioconductor training more accessible, including 
 
 ## Collaborators & Acknowledgements
 
-This workshop was co-hosted by GBioS and UMAPha. We are deeply grateful for their leadership and commitment to strengthening bioinformatics capacity in Benin.
+This workshop was co-hosted by GBioS and UMAPha. We are deeply grateful for their leadership and commitment to strengthening bioinformatics capacity in Benin. Notably, there was a special link between the Kenya and Benin workshops: the Kenya training went so well that one of its participants, Abdou Mouizz Salaou, helped bring Bioconductor training to Benin, further expanding the impact of Bioconductor capacity-building efforts across the region.
 
 The event was co-organised with the International Institute of Tropical Agriculture (IITA) and the University of Limerick, with additional support from Bioconductor (CZI EOSS).
 
